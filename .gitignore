@@ -135,3 +135,16 @@ logs/
 
 # vscode settings
 .vscode/
+# macOS
+.DS_Store
+
+# R
+.Rhistory
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Env files (secrets)
+.env
